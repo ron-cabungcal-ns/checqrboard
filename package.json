@@ -1,0 +1,14 @@
+{
+  "name": "checqrboard-dev",
+  "version": "1.0.0",
+  "description": "testing-only",
+  "main": "index.js",
+  "scripts": {
+    "cyp": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}
